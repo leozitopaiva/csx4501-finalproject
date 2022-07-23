@@ -28,4 +28,4 @@ It currently contains 248 activities and exercises ranging from running, cycling
 During this research I am looking for performing analisys on datasets that contains usable data related to people expoused to exercises and be able to compare how many calories each group will burn according to their weight.
 
 # What insights I expect to gain from your research
-I want to be able to identify is there is correlation between weight and calorries burned.
+Each personare different and when it cames to well-being have data to drive better decisions of everyone's life matters. As expectactions of this research, I want to be able to identify is there is correlation between weight and calorries burned.
