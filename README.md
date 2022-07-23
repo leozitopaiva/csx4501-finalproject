@@ -17,8 +17,11 @@ Link: https://www.kaggle.com/datasets/aadhavvignesh/calories-burned-during-exerc
 A potential data source that I will be using is from (Kaggle) wiith Usability score of 9.41.
 The Author is Aadhav Vighnesh and it was pulbished 2 year ago.
 
-Title: Calories Burned During Exercise and Activities
-Description: This dataset contains the number of calories burned by a person while performing some activity/exercise.
+Title: 
+Calories Burned During Exercise and Activities
+
+Description: 
+This dataset contains the number of calories burned by a person while performing some activity/exercise.
 It currently contains 248 activities and exercises ranging from running, cycling, calisthenics, etc.
 
 # A scope that explains the intended analysis and resulting visualizations for your project
