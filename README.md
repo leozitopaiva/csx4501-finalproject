@@ -29,3 +29,6 @@ During this research I am looking for performing analisys on datasets that conta
 
 # What insights I expect to gain from your research
 Each personare different and when it cames to well-being have data to drive better decisions of everyone's life matters. As expectactions of this research, I want to be able to identify is there is correlation between weight and calorries burned.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leozitopaiva/csx4501-finalproject/HEAD)
